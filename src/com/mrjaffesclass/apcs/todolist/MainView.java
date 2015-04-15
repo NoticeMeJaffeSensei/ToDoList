@@ -10,6 +10,8 @@ import org.jdesktop.swingx.table.DatePickerCellEditor;
 
 /**
  * To do list main view
+ * @authors Kevin Tran, Brandon Nguyen, Brian Luy
+ * @version 1.0
  */
 public class MainView extends javax.swing.JFrame implements MessageHandler {
 

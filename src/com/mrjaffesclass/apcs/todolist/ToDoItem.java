@@ -5,6 +5,8 @@ import java.util.Date;
 /**
  * To do item
  *
+ * @authors Kevin Tran, Brandon Nguyen, Brian Luy
+ * @version 1.0
  */
 public class ToDoItem implements Comparable<ToDoItem> {
 
