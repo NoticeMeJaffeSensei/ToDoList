@@ -5,7 +5,7 @@ import com.mrjaffesclass.apcs.messenger.*;
 /**
  * View for editing to do items
  *
- * @author Rachel Schmeltzer, Rebekah Leslie, and Ann Tran
+ * @author 
  * @version 1.0
  */
 public class EditView extends javax.swing.JDialog implements MessageHandler {
