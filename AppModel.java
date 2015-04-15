@@ -6,7 +6,7 @@ import com.mrjaffesclass.apcs.messenger.*;
 /**
  * The model represents the data that the app uses.
  *
- * @authors Rachel Schmeltzer, Rebekah Leslie, and Ann Tran
+ * @authors 
  * @version 1.0
  */
 public class AppModel implements MessageHandler {
