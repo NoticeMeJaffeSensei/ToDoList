@@ -11,7 +11,7 @@ import org.jdesktop.swingx.table.DatePickerCellEditor;
 /**
  * To do list main view
  *
- * @authors Rachel Schmeltzer, Rebekah Leslie, and Ann Tran
+ * @authors 
  * @version 1.0
  *
  */
